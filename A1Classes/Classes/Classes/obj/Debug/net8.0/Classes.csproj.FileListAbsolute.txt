@@ -1,0 +1,15 @@
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\bin\Debug\net8.0\Classes.exe
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\bin\Debug\net8.0\Classes.deps.json
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\bin\Debug\net8.0\Classes.dll
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\bin\Debug\net8.0\Classes.pdb
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.sourcelink.json
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.dll
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\refint\Classes.dll
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.pdb
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+D:\PROG2500\mygit\WindowApplication\A1Classes\Classes\Classes\obj\Debug\net8.0\ref\Classes.dll

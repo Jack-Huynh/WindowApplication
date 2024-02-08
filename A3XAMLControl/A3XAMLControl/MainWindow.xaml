@@ -1,0 +1,29 @@
+﻿<Window x:Class="A3XAMLControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A3XAMLControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="Face" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="/Images/face1.png"/>
+        <Image x:Name="Hair" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="/Images/hair1.png"/>
+        <Image x:Name="Eyes" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="/Images/eyes1.png"/>
+        <Image x:Name="Nose" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="/Images/nose1.png"/>
+        <Image x:Name="Mouth" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="/Images/mouth1.png"/>
+
+        <Border BorderBrush="Black" BorderThickness="2,2,2,2" Margin="500,70,20,20">
+            <Grid>
+                <CheckBox x:Name="hairCheck" Content="Have Hair" HorizontalAlignment="Center" Margin="0,10,170,50" IsChecked="True"/>
+                
+                <RadioButton Content="Happy Mouth" HorizontalAlignment="Left" Margin="150,200,0,0" Checked="Radio1" Width="100" IsChecked="True"/>
+                <RadioButton Content="Sad Mouth" HorizontalAlignment="Right" Margin="0,200,150,0" Checked="Radio2" Width="100"/>
+
+                <ComboBox x:Name="EyesSelection" Text="Eyes 1" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top" Width="100" SelectionChanged="eyesCombo"/>
+
+                <Slider x:Name="Random" HorizontalAlignment="Center" Margin="0,250,0,0" VerticalAlignment="Top" Width="100" ValueChanged="Slider"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\eyes1.png" />
+    <None Remove="Images\eyes2.png" />
+    <None Remove="Images\face1.png" />
+    <None Remove="Images\hair1.png" />
+    <None Remove="Images\hair2.png" />
+    <None Remove="Images\mouth1.png" />
+    <None Remove="Images\mouth2.png" />
+    <None Remove="Images\nose1.png" />
+    <None Remove="Images\nose2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\eyes1.png" />
+    <Resource Include="Images\eyes2.png" />
+    <Resource Include="Images\face1.png" />
+    <Resource Include="Images\hair1.png" />
+    <Resource Include="Images\hair2.png" />
+    <Resource Include="Images\mouth1.png" />
+    <Resource Include="Images\mouth2.png" />
+    <Resource Include="Images\nose1.png" />
+    <Resource Include="Images\nose2.png" />
+  </ItemGroup>
+
+</Project>

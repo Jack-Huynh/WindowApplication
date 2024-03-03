@@ -121,12 +121,6 @@ namespace FaceMaker
             _canExecute = canExecute;
         }
 
-        public KeyBind(Action<object, RoutedEventArgs> onSelectHairStyle1, bool v)
-        {
-            this.onSelectHairStyle1 = onSelectHairStyle1;
-            this.v = v;
-        }
-
         public event EventHandler? CanExecuteChanged;
 
         public bool CanExecute(object parameter)
@@ -157,7 +151,6 @@ namespace FaceMaker
             Random rand = new Random();
             i = rand.Next(array.Length);
             image.Source = new BitmapImage(new Uri(array[i], UriKind.Relative));
-
         }
     }
 }

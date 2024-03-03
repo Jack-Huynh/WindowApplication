@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("A4XAMLMenus")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("A3XAMLControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5661bd54c4900f99d83faf41b270e111e3e52e0f")]
-[assembly: System.Reflection.AssemblyProductAttribute("A4XAMLMenus")]
-[assembly: System.Reflection.AssemblyTitleAttribute("A4XAMLMenus")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3d34ebbe299bce6a91d09e5bc137fdf7cb1cfbb")]
+[assembly: System.Reflection.AssemblyProductAttribute("A3XAMLControl")]
+[assembly: System.Reflection.AssemblyTitleAttribute("A3XAMLControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

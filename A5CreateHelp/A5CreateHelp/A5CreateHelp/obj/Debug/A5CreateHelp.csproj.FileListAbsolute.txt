@@ -1,0 +1,15 @@
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\bin\Debug\A5CreateHelp.exe
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\bin\Debug\A5CreateHelp.pdb
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp.csproj.AssemblyReference.cache
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\MainWindow.baml
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\MainWindow.g.cs
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\App.g.cs
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp_MarkupCompile.cache
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp.g.resources
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp.Properties.Resources.resources
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp.csproj.GenerateResource.cache
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp.csproj.CoreCompileInputs.cache
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp.exe
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp.pdb
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\bin\Debug\FaceHelp.chm
+D:\PROG2500\mygit\WindowApplication\A5CreateHelp\A5CreateHelp\A5CreateHelp\obj\Debug\A5CreateHelp_Content.g.cs

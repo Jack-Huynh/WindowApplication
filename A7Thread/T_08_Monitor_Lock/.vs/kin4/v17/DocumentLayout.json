@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|d:\\prog2500\\mygit\\windowapplication\\a7thread\\t_08_monitor_lock\\kin4\\synched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\synched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|d:\\prog2500\\mygit\\windowapplication\\a7thread\\t_08_monitor_lock\\kin4\\synched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\synched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|d:\\prog2500\\mygit\\windowapplication\\a7thread\\t_08_monitor_lock\\kin4\\synched\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\synched\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\notsynched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\notsynched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\notsynched\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|d:\\prog2500\\mygit\\windowapplication\\a7thread\\t_08_monitor_lock\\kin4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|d:\\prog2500\\mygit\\windowapplication\\a7thread\\t_08_monitor_lock\\kin4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|d:\\prog2500\\mygit\\windowapplication\\a7thread\\t_08_monitor_lock\\kin4\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\synched\\Main.cs",
+              "RelativeDocumentMoniker": "kin4\\synched\\Main.cs",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\synched\\Main.cs",
+              "RelativeToolTip": "kin4\\synched\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:49:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\synched\\Data.cs",
+              "RelativeDocumentMoniker": "kin4\\synched\\Data.cs",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\synched\\Data.cs",
+              "RelativeToolTip": "kin4\\synched\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:27:42.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyThread.cs",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\MyThread.cs",
+              "RelativeDocumentMoniker": "kin4\\notsynched\\MyThread.cs",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\MyThread.cs",
+              "RelativeToolTip": "kin4\\notsynched\\MyThread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:27:24.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kin4\\MainWindow.xaml",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\MainWindow.xaml",
+              "RelativeToolTip": "kin4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T16:21:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\Main.cs",
+              "RelativeDocumentMoniker": "kin4\\notsynched\\Main.cs",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\Main.cs",
+              "RelativeToolTip": "kin4\\notsynched\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:21:26.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyThread.cs",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\synched\\MyThread.cs",
+              "RelativeDocumentMoniker": "kin4\\synched\\MyThread.cs",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\synched\\MyThread.cs",
+              "RelativeToolTip": "kin4\\synched\\MyThread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:50:21.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\Data.cs",
+              "RelativeDocumentMoniker": "kin4\\notsynched\\Data.cs",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\notsynched\\Data.cs",
+              "RelativeToolTip": "kin4\\notsynched\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:21:13.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "kin4\\ClassDiagram1.cd",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\ClassDiagram1.cd",
+              "RelativeToolTip": "kin4\\ClassDiagram1.cd",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-12T17:12:54.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\App.xaml",
+              "RelativeDocumentMoniker": "kin4\\App.xaml",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\App.xaml",
+              "RelativeToolTip": "kin4\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T17:12:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\app.config",
+              "RelativeDocumentMoniker": "kin4\\app.config",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A7Thread\\T_08_Monitor_Lock\\kin4\\app.config",
+              "RelativeToolTip": "kin4\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-12T17:14:04.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

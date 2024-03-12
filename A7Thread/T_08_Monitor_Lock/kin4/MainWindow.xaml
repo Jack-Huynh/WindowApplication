@@ -1,0 +1,23 @@
+﻿<Window x:Class="kin4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="724" Width="608">
+    <Grid>
+        <Image x:Name="ColorImageElement" Margin="0,0,-12,-9"/>
+
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Button Content="Clear" Click="Clear_Click" Width="54"/>
+        </StackPanel>
+        <TextBox x:Name="Text_Output" 
+                 HorizontalAlignment="Left" 
+                 Height="617" 
+                 Margin="85,37,0,0" 
+                 Text="Output" 
+                 VerticalAlignment="Top" 
+                 Width="493" 
+                 VerticalScrollBarVisibility="Visible"
+                 IsEnabled="True"/>
+        <Button x:Name="Synch_Button" Content="Synch" HorizontalAlignment="Left" Margin="0,60,0,0" VerticalAlignment="Top" Width="75" Click="Synch_Button_Click"/>
+        <Button x:Name="NotSynch_button" Content="NotSynch" HorizontalAlignment="Left" Margin="0,0,0,584" VerticalAlignment="Bottom" Width="75" Click="NotSynch_button_Click" Height="20"/>
+    </Grid>
+</Window>

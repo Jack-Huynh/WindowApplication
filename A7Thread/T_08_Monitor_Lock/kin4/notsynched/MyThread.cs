@@ -13,17 +13,17 @@ namespace kin4.notsynched
         notsynched.Data dd;
 
         private String dorothyFav = "";
-        private String characer = "";
+        private String character = "";
         private String color = "";
 
-        public MyThread(notsynched.Data dd, string dorothyFav, string characer, string color)
+        public MyThread(notsynched.Data dd, string dorothyFav, string character, string color)
         {
             // the object reference to update, each thread gets the same
             this.dd = dd;
 
             // the data that this thread will update with
             this.dorothyFav = dorothyFav;
-            this.characer = characer;
+            this.character = character;
             this.color = color;
         }
 
@@ -31,7 +31,7 @@ namespace kin4.notsynched
         {
             for (int i = 0; i < 100; i++)
             {
-                dd.setThreadPerson(this.dorothyFav, this.characer, this.color);
+                dd.setThreadPerson(this.dorothyFav, this.character, this.color);
                 Console.WriteLine("ThreadProc: " + this.dorothyFav);
                 // Yield the rest of the time slice.
                 Thread.Sleep(1);

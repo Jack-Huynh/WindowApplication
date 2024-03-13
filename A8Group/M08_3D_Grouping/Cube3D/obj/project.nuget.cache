@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLYZR8W4hGBV6P6JM3StytJLJRW7mwfvH5CSRTVahflZ/Vod9kntzExIrLuWp7U8HeQcOEnFX7r5su9OBV3/eg==",
+  "success": true,
+  "projectFilePath": "D:\\PROG2500\\mygit\\WindowApplication\\A8Group\\M08_3D_Grouping\\Cube3D\\Grouping3D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\helixtoolkit.wpf\\2.24.0\\helixtoolkit.wpf.2.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

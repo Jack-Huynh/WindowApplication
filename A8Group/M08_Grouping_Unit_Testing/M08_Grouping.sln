@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M08_Grouping_Proj", "M01_First_WPF_Proj\M08_Grouping_Proj.csproj", "{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M08_Grouping_ProjTests1", "M08_Grouping_ProjTests1\M08_Grouping_ProjTests1.csproj", "{5E9AE865-648A-4686-9C97-1B9F66B0E2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9AE865-648A-4686-9C97-1B9F66B0E2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9AE865-648A-4686-9C97-1B9F66B0E2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9AE865-648A-4686-9C97-1B9F66B0E2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9AE865-648A-4686-9C97-1B9F66B0E2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F29F7D-164F-42D1-9EDD-A70CFB49C9D6}
+	EndGlobalSection
+EndGlobal

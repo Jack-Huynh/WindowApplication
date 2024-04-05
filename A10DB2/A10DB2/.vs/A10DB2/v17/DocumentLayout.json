@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROG2500\\mygit\\WindowApplication\\A10DB2\\A10DB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE64648-89D1-41FC-809D-541257A036AF}|A10DB2\\A10DB2.csproj|d:\\prog2500\\mygit\\windowapplication\\a10db2\\a10db2\\a10db2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE64648-89D1-41FC-809D-541257A036AF}|A10DB2\\A10DB2.csproj|solutionrelative:a10db2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE64648-89D1-41FC-809D-541257A036AF}|A10DB2\\A10DB2.csproj|d:\\prog2500\\mygit\\windowapplication\\a10db2\\a10db2\\a10db2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAE64648-89D1-41FC-809D-541257A036AF}|A10DB2\\A10DB2.csproj|solutionrelative:a10db2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A10DB2\\A10DB2\\A10DB2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "A10DB2\\MainWindow.xaml",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A10DB2\\A10DB2\\A10DB2\\MainWindow.xaml",
+              "RelativeToolTip": "A10DB2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T02:20:44.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PROG2500\\mygit\\WindowApplication\\A10DB2\\A10DB2\\A10DB2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "A10DB2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PROG2500\\mygit\\WindowApplication\\A10DB2\\A10DB2\\A10DB2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "A10DB2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAmwNgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:20:43.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

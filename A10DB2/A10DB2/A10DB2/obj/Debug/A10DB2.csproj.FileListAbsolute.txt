@@ -1,0 +1,17 @@
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\bin\Debug\A10DB2.exe.config
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\bin\Debug\A10DB2.exe
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\bin\Debug\A10DB2.pdb
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2.csproj.AssemblyReference.cache
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\MainWindow.baml
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\MainWindow.g.cs
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\App.g.cs
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2_MarkupCompile.cache
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2.g.resources
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2.Properties.Resources.resources
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2.csproj.GenerateResource.cache
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2.csproj.CoreCompileInputs.cache
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2.exe
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2.pdb
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\bin\Debug\Database1.mdf
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\bin\Debug\Database1_log.ldf
+D:\PROG2500\mygit\WindowApplication\A10DB2\A10DB2\A10DB2\obj\Debug\A10DB2_Content.g.cs
